@@ -15,6 +15,8 @@ namespace web_app
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            //Console.OutputEncoding = System.Text.Encoding.UTF8;//第一种方式：指定编码
+            //Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);//第二种方式
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>

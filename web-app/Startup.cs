@@ -33,6 +33,9 @@ namespace web_app
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            //解决中文被编码
+            //services.AddSingleton(HtmlEncoder.Create(UnicodeRanges.All));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
