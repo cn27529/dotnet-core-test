@@ -12,3 +12,17 @@ D:\Git\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.AssemblyInfo.cs
 D:\Git\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.RazorTargetAssemblyInfo.cache
 D:\Git\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.dll
 D:\Git\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.pdb
+D:\Git\dotnet-core-test\dotnet-TodoApi\bin\Debug\netcoreapp2.1\dotnet-TodoApi.deps.json
+D:\Git\dotnet-core-test\dotnet-TodoApi\bin\Debug\netcoreapp2.1\dotnet-TodoApi.runtimeconfig.json
+D:\Git\dotnet-core-test\dotnet-TodoApi\bin\Debug\netcoreapp2.1\dotnet-TodoApi.runtimeconfig.dev.json
+D:\Git\dotnet-core-test\dotnet-TodoApi\bin\Debug\netcoreapp2.1\dotnet-TodoApi.dll
+D:\Git\dotnet-core-test\dotnet-TodoApi\bin\Debug\netcoreapp2.1\dotnet-TodoApi.pdb
+D:\Git\dotnet-core-test\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.csprojAssemblyReference.cache
+D:\Git\dotnet-core-test\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.csproj.CoreCompileInputs.cache
+D:\Git\dotnet-core-test\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.RazorAssemblyInfo.cache
+D:\Git\dotnet-core-test\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.RazorAssemblyInfo.cs
+D:\Git\dotnet-core-test\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.AssemblyInfoInputs.cache
+D:\Git\dotnet-core-test\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.AssemblyInfo.cs
+D:\Git\dotnet-core-test\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.RazorTargetAssemblyInfo.cache
+D:\Git\dotnet-core-test\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.dll
+D:\Git\dotnet-core-test\dotnet-TodoApi\obj\Debug\netcoreapp2.1\dotnet-TodoApi.pdb
