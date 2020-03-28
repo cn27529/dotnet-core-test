@@ -1,0 +1,14 @@
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/bin/Debug/netcoreapp2.2/vue-webapi.deps.json
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/bin/Debug/netcoreapp2.2/vue-webapi.runtimeconfig.json
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/bin/Debug/netcoreapp2.2/vue-webapi.runtimeconfig.dev.json
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/bin/Debug/netcoreapp2.2/vue-webapi.dll
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/bin/Debug/netcoreapp2.2/vue-webapi.pdb
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/obj/Debug/netcoreapp2.2/vue-webapi.csprojAssemblyReference.cache
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/obj/Debug/netcoreapp2.2/vue-webapi.csproj.CoreCompileInputs.cache
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/obj/Debug/netcoreapp2.2/vue-webapi.RazorAssemblyInfo.cache
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/obj/Debug/netcoreapp2.2/vue-webapi.RazorAssemblyInfo.cs
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/obj/Debug/netcoreapp2.2/vue-webapi.AssemblyInfoInputs.cache
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/obj/Debug/netcoreapp2.2/vue-webapi.AssemblyInfo.cs
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/obj/Debug/netcoreapp2.2/vue-webapi.RazorTargetAssemblyInfo.cache
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/obj/Debug/netcoreapp2.2/vue-webapi.dll
+/Users/Cn27529/NodejsWorkspace/dotnet-core-test/vue-webapi/obj/Debug/netcoreapp2.2/vue-webapi.pdb
